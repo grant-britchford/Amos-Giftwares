@@ -1,9 +1,16 @@
 # Amos Giftwares
 
-## Project Background
+## Project Description
 
-Amos Giftwares is an online e-commerce company who sell unique all-occasion gifts.
-The majority of customers are wholesalers, and the company has been active since 2009.
+Amos Giftwares is an online e-commerce company who sell unique all-occasion gifts. The company wants to understand customer purchasing patterns to
+improve retention and reduce churn.
 
-## Data Structure & Initial Checks
+## Database Design
 
+## Data Analysis Techniques
+
+## Insights & Findings
+
+## Recommendations
+
+## Authors
