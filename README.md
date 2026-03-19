@@ -7,6 +7,10 @@ improve retention and reduce churn.
 
 ## Database Design
 
+#### ERD
+![AmosDB ERD](https://github.com/user-attachments/assets/580b3034-783f-4bc9-9626-50c04492ba02)
+
+
 ## Data Analysis Techniques
 
 ## Insights & Findings
