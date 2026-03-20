@@ -1,35 +1,35 @@
 # Amos Giftware
 
 ## Contents Table
-- [Introduction](introduction)
-  - [Overview](overview)
-  - [Business Questions to Answer](business-questions-to-answer)
-- [Dataset Overview](dataset-overview)
-  - [Dataset Shape](dataset-shape)
-  - [Key Variables](key-variables)
-  - [Data Types](data-types)
-- [Project Scope and Tools](project-scope-&-tools)
-  - [Scope](scope)
-  - [Tools & Technology](tools-&-technology)
-- [Missing Data](missing-data)
-- [Key Findings](key-findings)
-- [Recommendations](recommendations)
+- [Introduction](#1-introduction)
+  - [Overview](#2-overview)
+  - [Business Questions to Answer](#3-business-questions-to-answer)
+- [Dataset Overview](#4-dataset-overview)
+  - [Dataset Shape](#5-dataset-shape)
+  - [Key Variables](#6-key-variables)
+  - [Data Types](#7-data-types)
+- [Project Scope and Tools](#8-project-scope-&-tools)
+  - [Scope](#9-scope)
+  - [Tools & Technology](#10-tools-&-technology)
+- [Missing Data](#11-missing-data)
+- [Key Findings](#12-key-findings)
+- [Recommendations](#13-recommendations)
 
-## Introduction
-### Overview
-### Business Questions to Answer
+## 1. Introduction
+### 2.Overview
+### 3. Business Questions to Answer
 
-## Dataset Overview
-### Dataset Shape
-### Key Variables
-### Data Types
+## 4. Dataset Overview
+### 5. Dataset Shape
+### 6. Key Variables
+### 7. Data Types
 
-## Project Scope & Tools
-### Scope
-### Tools & Technology
+## 8. Project Scope & Tools
+### 9. Scope
+### 10. Tools & Technology
 
-## Missing Data
+## 11. Missing Data
 
-## Key Findings
+## 12. Key Findings
 
-## Recommendations
+## 13. Recommendations
