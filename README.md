@@ -16,8 +16,18 @@
 - [Recommendations](#13-recommendations)
 
 ## 1. Introduction
-### 2.Overview
+
+### 2. Overview
+Amos Giftware is a UK-based online retail store that sells unique all-occasion gifts.
+The company provides to the general public and to a large percentage of international wholesalers.
+
 ### 3. Business Questions to Answer
+- What are our customer behaviour trends?
+- Which are the top products sold?
+- Is there a trend in sales?
+- Can we identify loyal customers?
+- Can we identify customers that could become churn?
+- What are our best Countries for sales?
 
 ## 4. Dataset Overview
 ### 5. Dataset Shape
