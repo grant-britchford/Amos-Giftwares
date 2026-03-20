@@ -1,17 +1,16 @@
-# [Project Title]
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+# Amos Giftware
+Amos Giftware asked for a Sales analysis to find sales trends, customer behaviour patterns, and the performance of their products.
 
 ---
 
 ## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
 
-- [ ] Exploratory Data Analysis (EDA)
+- [x] Exploratory Data Analysis (EDA)
 - [ ] SQL Analysis / Querying
-- [ ] Dashboard / Data Visualization
+- [x] Dashboard / Data Visualisation
 - [ ] Data Pipeline / ETL
 - [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
+- [x] Data Cleaning / Wrangling
 - [ ] End-to-End (multiple of the above)
 - [ ] Other: ___________
 
@@ -37,32 +36,26 @@
 
 ## 1. Project Overview
 
-<!--
-  Write 3–5 sentences in plain language.
-  Cover: context → problem → approach → outcome.
-  Read it out loud. If it sounds like a form - rewrite it.
+**Context:** 
+Amos Giftware is a UK-based online-retail store. They sell unique all-occasion giftware to the public and to wholesalers internationally.
+They have noticed a large number of cancelled orders and a loss in profit in some Countries. It is my job to analyse the dataset given to me to answer 
+the company's shareholders. I also carried out a Recency-Frequency-Monetary analysis to show loyal customers.
 
-  WHAT GOOD LOOKS LIKE:
-  "A mid-size retail business was seeing inconsistent revenue across
-  its regional stores but couldn't identify the root cause. This project
-  explored 18 months of transaction data across five regions to determine
-  whether underperformance was driven by sales volume, pricing, or return
-  rates. The analysis revealed that one region's gap was almost entirely
-  explained by an unusually high return rate on a single product category -
-  a finding invisible in the company's top-level reporting."
+**Problem Statement:** 
+The questions to be answered:
+1. What are the sales trends?
+2. How can customer behaviour patterns change over time?
+3. Which are the highest-earning products?
 
-  WHAT TO AVOID:
-  "This project analyzes sales data to find trends and insights."
-  (Too vague. Could describe 10,000 projects. Describes none of them.)
--->
+**Approach:**
+After receiving the dataset to be used, I first took the time to research the dataset in it's raw-form. This gave me the indication of consistency
+in the dataset and showed me missing values and what I was working with.
 
-**Context:** [The business, research, or personal situation that motivated this project.]
-
-**Problem Statement:** [The specific question or challenge you were addressing.]
-
-**Approach:** [In 1–2 sentences - how did you tackle it?]
-
-**Outcome:** [What did you produce or discover?]
+**Outcome:**
+- The exploratory data analysis (EDA) showed that the UK was the company's biggest Country with 85% of sales.
+- The company does better revenue in November & December. This shows a seasonal spike for the Christmas period.
+- The top 10 products sold were shown to be Gift items and Decorative products.
+- The RFM identifies which are the most loyal customers and which are the at-risk customers.
 
 ---
 
