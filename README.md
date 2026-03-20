@@ -63,6 +63,10 @@ and could skew the results. I will use the cancelled orders for the dashboard.
 Description - 4382 (22.77%)
 Customer ID - 243007 (0.41%)
 
+**Negative Values**:
+Customer ID - this shows that orders were from guest orders or that the order was cancelled.
+Quantity - There are negative values in the Quantity column which match the Cancelled orders/transactions.
+
 ## 12. Key Findings
 
 ## 13. Recommendations
