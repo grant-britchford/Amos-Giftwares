@@ -69,7 +69,7 @@ Quantity - There are negative values in the Quantity column which match the Canc
 
 ## 12. Data Cleaning
 **Null Values**
-- Customer ID - Dropped all empty Customer ID numbers so that the results would come out clean.
+- Customer ID - Changed all 0 values and null values to 0 to represent Guest checkouts.
 
 **Empty Values**
 - Quantity - All 0 values in Quantity related to Cancelled orders/transactions, these were removed as they would skew the results.
@@ -77,7 +77,12 @@ Quantity - There are negative values in the Quantity column which match the Canc
 
 **Data Type Changes**
 - InvoiceDate - Changed the InvoiceDate from an object to datetime.
-- Customer ID - changed from float to int.
+- Customer ID - Changed from float to int.
+- Customer ID - Changed from float64 to int64.
+
+**New Columns Added**
+- Weekday - Added a weekday column to make trend analysis easier.
+- TotalSales - Makes the transactions easier to analyse in full cost.
 
 
 ## 12. Key Findings
