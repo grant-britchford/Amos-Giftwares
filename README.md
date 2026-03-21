@@ -16,7 +16,8 @@
 - [analysis](#13-analysis)
 - [Key Findings](#14-key-findings)
 - [Recommendations](#15-recommendations)
-- [Author](#16-author)
+- [Dashboard](#16-dashboard)
+- [Author](#17-author)
 
 ## 1. Introduction
 
@@ -127,7 +128,10 @@ Quantity - There are negative values in the Quantity column, which match the Can
 3. Focus stock and marketing on the top-selling categories to improve inventory efficiency.
 4. Launch a campaign to convert guest accounts to loyal customers.
 
-## 16. Author
+## 16. Dashboard
+[Amos Giftwares Sales Dashboard](https://1drv.ms/u/c/1a4371ba190b8d99/IQAcYPQvVju-S5uIRzeNfvP7ASLJ6X5l1W1XuykTglCtOk4?e=182w7A)
+
+## 17. Author
 **Grant Britchford**
 
 Data Analyst
