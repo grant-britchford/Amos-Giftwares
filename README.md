@@ -3,7 +3,7 @@
 ## Contents Table
 - [Introduction](#1-introduction)
   - [Overview](#2-overview)
-  - [Business Questions to Answer](#3-business-questions-to-answer)
+  - [Business Questions](#3-business-questions)
 - [Dataset Overview](#4-dataset-overview)
   - [Dataset Shape](#5-dataset-shape)
   - [Key Variables](#6-key-variables)
@@ -12,8 +12,11 @@
   - [Scope](#9-scope)
   - [Tools & Technology](#10-tools-&-technology)
 - [Missing Data](#11-missing-data)
-- [Key Findings](#12-key-findings)
-- [Recommendations](#13-recommendations)
+- [Data Cleaning](#12-data-cleaning)
+- [analysis](#13-analysis)
+- [Key Findings](#14-key-findings)
+- [Recommendations](#15-recommendations)
+- [Author](#1-author)
 
 ## 1. Introduction
 
@@ -21,7 +24,7 @@
 Amos Giftware is a UK-based online retail store that sells unique all-occasion gifts.
 The company provides to the general public and to a large percentage of international wholesalers.
 
-### 3. Business Questions to Answer
+### 3. Business Questions
 - What are our customer behaviour trends?
 - Which are the top products sold?
 - Is there a trend in sales?
@@ -112,6 +115,24 @@ Quantity - There are negative values in the Quantity column, which match the Can
 - Top 15 Customers.
 **Findings**: Customer ID 15380 is the top customer. Above Customer 15380 are all the Guest buyers.
 
-## 12. Key Findings
+## 14. Key Findings
+- The UK contributes the most sales.
+- November & December are the peak spikes in sales. This is due to the Christmas Period.
+- The top products sold are in the gift & decorative categories.
+- RFM segmentation identifies both loyal and non-loyal customers.
 
-## 13. Recommendations
+## 15. Recommendations
+1. Target the high RFM-score customers with a loyalty program involving discounts and personalized offers.
+2. Launch peak month campaigns to maximise conversions.
+3. Focus stock and marketing on the top-selling categories to improve inventory efficiency.
+4. Launch a campaign to convert guest accounts to loyal customers.
+
+## 16. Author
+**Grant Britchford**
+Data Analyst
+
+*Date: 21st March 2026*
+
+- [Linkedin.com](www.linkedin.com/in/grant-britchford-211623292)
+- [Portfolio](www.grantbritchford.com)
+- [Email](grant.britchford@hotmail.co.uk)
