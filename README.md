@@ -67,6 +67,19 @@ Customer ID - 243007 (0.41%)
 Customer ID - this shows that orders were from guest orders or that the order was cancelled.
 Quantity - There are negative values in the Quantity column which match the Cancelled orders/transactions.
 
+## 12. Data Cleaning
+**Null Values**
+- Customer ID - Dropped all empty Customer ID numbers so that the results would come out clean.
+
+**Empty Values**
+- Quantity - All 0 values in Quantity related to Cancelled orders/transactions, these were removed as they would skew the results.
+- Price - All 0 values in Price related to Cancelled orders/transactions, these were removed so they did not skew the results.
+
+**Data Type Changes**
+- InvoiceDate - Changed the InvoiceDate from an object to datetime.
+- Customer ID - changed from float to int.
+
+
 ## 12. Key Findings
 
 ## 13. Recommendations
