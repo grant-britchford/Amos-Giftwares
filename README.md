@@ -16,7 +16,7 @@
 - [analysis](#13-analysis)
 - [Key Findings](#14-key-findings)
 - [Recommendations](#15-recommendations)
-- [Author](#1-author)
+- [Author](#16-author)
 
 ## 1. Introduction
 
@@ -129,6 +129,7 @@ Quantity - There are negative values in the Quantity column, which match the Can
 
 ## 16. Author
 **Grant Britchford**
+
 Data Analyst
 
 *Date: 21st March 2026*
