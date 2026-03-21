@@ -65,7 +65,7 @@ Customer ID - 243007 (0.41%)
 
 **Negative Values**:
 Customer ID - this shows that orders were from guest orders or that the order was cancelled.
-Quantity - There are negative values in the Quantity column which match the Cancelled orders/transactions.
+Quantity - There are negative values in the Quantity column, which match the Cancelled orders/transactions.
 
 ## 12. Data Cleaning
 **Null Values**
@@ -84,6 +84,30 @@ Quantity - There are negative values in the Quantity column which match the Canc
 - Weekday - Added a weekday column to make trend analysis easier.
 - TotalSales - Makes the transactions easier to analyse in full cost.
 
+## 13. Analysis
+**Univariate**
+- Top 10 Countries by Quantity.
+**Findings**: The UK has the highest Quantity score.
+
+- Top 10 Products.
+**Findings**: The best Product for Quantity was the 'WW2 Glider Asstd Designs'.
+
+**Bivariate**
+- Top 10 Countries by Total Sales.
+**Findings**: The UK, top Total Sales, with Eire and the Netherlands following 2nd and 3rd.
+
+- Monthly Sales Trend.
+**Findings**: In 2010 and 2011, October is the best Month for sales. This is because of the Christmas period.
+
+- Daily Sales Trend.
+**Findings**: The sales trends are even in both years. The most notable drops are in 2010 for May and August.
+
+- Weekday Sales.
+**Findings**: Saturday is the worst day, and Sunday 2nd worst. The best 2 days for sales are Thursday & Tuesday
+
+**RFM (Regency, Frequency, Monetary)**
+- Distribution of RFM counts.
+**Findings**
 
 ## 12. Key Findings
 
