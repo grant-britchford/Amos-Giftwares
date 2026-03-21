@@ -129,7 +129,7 @@ Quantity - There are negative values in the Quantity column, which match the Can
 4. Launch a campaign to convert guest accounts to loyal customers.
 
 ## 16. Dashboard
-[Amos Giftwares Sales Dashboard](https://1drv.ms/b/c/1a4371ba190b8d99/IQATdvkjA5ZORYCKz-9R8phvAcHEfuaT5mpBCmDfPHxK4nE?e=03cmSF)
+[Amos Giftwares Sales Dashboard](https://raw.githubusercontent.com/grant-britchford/Amos-Giftwares/refs/heads/main/Dashboard/Amos%20Giftwares%20Sales%20Dashboard.pbix)
 
 ## 17. Author
 **Grant Britchford**
