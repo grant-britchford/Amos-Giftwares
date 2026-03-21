@@ -103,11 +103,14 @@ Quantity - There are negative values in the Quantity column, which match the Can
 **Findings**: The sales trends are even in both years. The most notable drops are in 2010 for May and August.
 
 - Weekday Sales.
-**Findings**: Saturday is the worst day, and Sunday 2nd worst. The best 2 days for sales are Thursday & Tuesday
+**Findings**: Saturday is the worst day, and Sunday 2nd worst. The best 2 days for sales are Thursday & Tuesday.
 
 **RFM (Regency, Frequency, Monetary)**
 - Distribution of RFM counts.
-**Findings**
+**Findings**: The scores are in 9 bins. The highest count bin is the 9th with 1200 counts. The other 8 bins are even with around 600 counts each.
+
+- Top 15 Customers.
+**Findings**: Customer ID 15380 is the top customer. Above Customer 15380 are all the Guest buyers.
 
 ## 12. Key Findings
 
