@@ -60,7 +60,7 @@ and could skew the results. I will use the cancelled orders for the dashboard.
 ### 10. Tools & Technology
 - Jupyter Notebook - This will be used for the Analysis part of the project.
 - CSV file - The dataset is in a CSV format.
-- Power BI - Power BI will be used to create the dashboard in the final step.
+- Tableau - Will be used to create the dashboard in the final step.
 
 ## 11. Missing Data
 **Null values**:
@@ -129,7 +129,7 @@ Quantity - There are negative values in the Quantity column, which match the Can
 4. Launch a campaign to convert guest accounts to loyal customers.
 
 ## 16. Dashboard
-[Amos Giftwares Sales Dashboard](https://1drv.ms/u/c/1a4371ba190b8d99/IQDbBq_UlZlvQoHu03uwfLBIAdKUwP5xVlZ5bDpNmCERkRY?e=nAcuT1)
+[Amos Giftwares Sales Dashboard](https://public.tableau.com/views/AmosSalesDashboard/AmosGiftwaresSalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 17. Author
 **Grant Britchford**
